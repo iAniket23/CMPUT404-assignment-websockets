@@ -1,8 +1,7 @@
 CMPUT404-assignment-websockets
 ==============================
 
-CMPUT404-assignment-websockets     = 
-
+CMPUT404-assignment-websockets Aniket
 See requirements.org (plain-text) for a description of the project.
 
 Make a shared state Websockets drawing program
