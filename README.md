@@ -1,7 +1,7 @@
 CMPUT404-assignment-websockets
 ==============================
 
-CMPUT404-assignment-websockets
+CMPUT404-assignment-websockets     = 
 
 See requirements.org (plain-text) for a description of the project.
 
