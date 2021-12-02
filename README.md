@@ -57,4 +57,6 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
-* Cole Mackenzie
+* Cole Mackenzie      
+* Aniket Mishra
+
